@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+.header{
+    width:80%;
+    font-size: 23px;
+}
+#the_objects,#name,#accuracy{
+ color: cyan;
+}
